@@ -1,0 +1,21 @@
+
+html {
+  height: 100%;
+  width: 100%;
+}
+
+
+h1 {
+  font-size: 4em;
+  color: #8e8ed7;
+}
+
+.differentH1 {
+  color: #c21919;  
+}
+
+.div1 {
+  background-color: yellow;
+  width: 50%;
+  float: right;
+}
